@@ -66,6 +66,8 @@ If successful, this method returns a `201 Created` response code and a [temporar
 ## Examples
 
 ### Request
+
+# [HTTP](#tab/http)
 <!-- {
   "blockType": "request",
   "name": "create_temporaryaccesspassauthenticationmethod_from_"
@@ -81,6 +83,12 @@ Content-Type: application/json
     "isUsableOnce": false
 }
 ```
+# [Php](#tab/php)
+[!INCLUDE [sample-code](../includes/snippets/php/create-temporaryaccesspassauthenticationmethod-from--php-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
+---
+
 
 ### Response
 >**Note:** The response object shown here might be shortened for readability.
