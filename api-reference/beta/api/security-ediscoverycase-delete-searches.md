@@ -75,6 +75,10 @@ DELETE https://graph.microsoft.com/beta/security/cases/eDiscoverycases/58399dff-
 [!INCLUDE [sample-code](../includes/snippets/go/delete-ediscoverysearch-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/delete-ediscoverysearch-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

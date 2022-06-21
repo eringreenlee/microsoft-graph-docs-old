@@ -84,6 +84,10 @@ GET https://graph.microsoft.com/beta/tenantRelationships/managedTenants/myRoles
 [!INCLUDE [sample-code](../includes/snippets/go/list-myrole-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/list-myrole-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

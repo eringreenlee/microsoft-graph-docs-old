@@ -105,6 +105,10 @@ POST https://graph.microsoft.com/beta/privilegedAccess/azureResources/roleAssign
 [!INCLUDE [sample-code](../includes/snippets/go/cancel-governanceroleassignmentrequest-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/cancel-governanceroleassignmentrequest-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 

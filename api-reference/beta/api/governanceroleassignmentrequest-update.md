@@ -102,6 +102,10 @@ POST https://graph.microsoft.com/beta/privilegedAccess/azureResources/roleAssign
 [!INCLUDE [sample-code](../includes/snippets/go/updaterequest-governanceroleassignmentrequest-go-snippets.md)]
 [!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
 
+# [typescript](#tab/typescript)
+[!INCLUDE [sample-code](../includes/snippets/typescript/updaterequest-governanceroleassignmentrequest-typescript-snippets.md)]
+[!INCLUDE [sdk-documentation](../includes/snippets/snippets-sdk-documentation-link.md)]
+
 ---
 
 ##### Request body
